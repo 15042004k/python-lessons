@@ -1,0 +1,5 @@
+name = input("your name")
+print (len(name))
+print (f"there are {len(name)} letters in {name}")
+age = int (input ("your age"))
+print (type (age))
